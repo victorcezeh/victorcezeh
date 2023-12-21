@@ -6,10 +6,8 @@ I'm a Cloud and Data Engineering Student. I'm passionate about Data and the wond
 
 **Here's a quick summary about me**:
 
-Please don't get too hyped up yet. 😄
-
 - 😊 Pronouns: He/him
-- 📚 School: I'm currently studying at AltSchool Africa [School of Data](https://data.altschoolafrica.com/) Class of 2024. I am also currently working on becoming a Certified Solutions Architect.
+- 📚 School: I'm currently studying at AltSchool Africa [School of Data](https://data.altschoolafrica.com/) class of 2024. I am also currently working on becoming a Certified Solutions Architect.
 - 💡 Fun Fact: I love to play chess, study, listen to podcasts and watch vodcasts.
 - 🌱 I’m currently learning Batch Pipelines · Streaming Pipelines · Python (Programming Language) · BLOB Storage · File Processing · Relational Databases · NoSQL · Object-Oriented Databases · Data Warehouses · Data Lakes · Analytical Databases · Job Scheduling · Orchestration · DBT · Apache Beam · Apache Spark · SQL · Git · GitHub· Cloud Computing(AWS)
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
