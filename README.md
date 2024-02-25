@@ -17,7 +17,7 @@ I'm a Cloud and Data Engineering Student. I'm passionate about Data and the wond
 - 😊 Pronouns: He/him
 - 📚 School: I'm currently studying at AltSchool Africa [School of Data](https://data.altschoolafrica.com/) class of 2024. I am also currently working on becoming a Certified Solutions Architect.
 - 💡 Fun Fact: I love to play chess, read (voracious reader), study, play FIFA, listen to podcasts and watch vodcasts.
-- 🌱 I’m currently learning Batch Pipelines · Streaming Pipelines · Python (Programming Language) · BLOB Storage · File Processing · Relational Databases · NoSQL · Object-Oriented Databases · Data Warehouses · Data Lakes · Analytical Databases · Job Scheduling · Orchestration · DBT · Apache Beam · Apache Spark · SQL · PostgreSQL · Git · GitHub · Data Ingestion · Data Storage · MongoDB · Google BigQuery · Google Cloud Storage · Cloud Computing (AWS and GCP)
+- 🌱 I’m currently learning Batch Pipelines · Streaming Pipelines · Python (Programming Language) · BLOB Storage · File Processing · Relational Databases · NoSQL · Object-Oriented Databases · Data Warehouses · Data Lakes · Analytical Databases · Job Scheduling · Orchestration · DBT · Apache Beam · Apache Spark · SQL · PostgreSQL · Git · GitHub · Technical Documentation · Data Ingestion · Data Storage · MongoDB · Docker · Google BigQuery · Google Cloud Storage · Cloud Computing (AWS and GCP)
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Analyst, Data Engineer, Cloud Architect, DevOps (Intern or Junior level for all roles).
 - 📫 You can [view my projects](https://github.com/victorcezeh?tab=repositories) and contact me by emailing ezeh_victor@yahoo.com
