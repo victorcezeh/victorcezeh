@@ -38,6 +38,4 @@ I'm a Cloud and Data Engineering student passionate about data and its transform
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Apache Beam](https://img.shields.io/badge/Apache_Beam-000000?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-F2C811?style=for-the-badge&logo=dbt&logoColor=black)
