@@ -1,9 +1,8 @@
 # Holla! Welcome to my GitHub 👋🏿
 
 [![Altschool Africa](https://img.shields.io/badge/Altschool_Africa-Visit-9B59B6?style=for-the-badge&labelColor=blue)](https://altschoolafrica.com/)
-[![Vephla Institute](https://img.shields.io/badge/Vephla_Institute-Visit-9B59B6?style=for-the-badge&labelColor=black&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAqklEQVR42mJ0L1+KOioi1BXAlP1Ioa5Q0FQSrXpE0TCaMyFbndLDFtMybNvz4i9D0xPhuuoF1DYAFDIZ5QYwZnLWfATpyHoKU6BcBXI8QwAahDwE8keEB2FzAvxRQk8T8K8GPwQ9A2iBN/BMmZpQlwC7DPAbG5hiaGG4BrM4tgA/ApGBlVQK8A7yBctjl+h/8AAAAASUVORK5CYII=)](https://vephlainstitute.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcezeh/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/victorcezeh)
+[![Vephla Institute](https://img.shields.io/badge/Vephla_Institute-Visit-9B59B6?style=for-the-badge&labelColor=black&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAqklEQVR42mJ0L1+KOioi1BXAlP1Ioa5Q0FQSrXpE0TCaMyFbndLDFtMybNvz4i9D0xPhuuoF1DYAFDIZ5QYwZnLWfATpyHoKU6BcBXI8QwAahDwE8keEB2FzAvxRQk8T8K8GPwQ9A2iBN/BMmZpQlwC7DPAbG5hiaGG4BrM4tgA/ApGBlVQK8A7yBctjl+h/8AAAAASUVORK5CYII=)](https://vephlainstitute.com/)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
