@@ -14,13 +14,13 @@
 
 I'm a Cloud and Data Engineering student passionate about data and its transformative potential, cloud computing (AWS and GCP), problem-solving, knowledge sharing, and learning. My goal is to create technical content that reflects my journey on my [Medium Account](https://medium.com/@victorcezeh), speak at meetups/conferences, and build communities in the Cloud and Data space.
 
-### Quick Summary
+### Quick Summary 
 
-- **📚 Education**: Currently studying at [AltSchool Africa School of Data](https://data.altschoolafrica.com/) (Class of 2024). I'm also working towards becoming a Certified Solutions Architect.
+- **📚 Education**: Graduated from [AltSchool Africa School of Data](https://data.altschoolafrica.com/) (Class of 2024). Currently pursuing certification as a Solutions Architect.
 - **💡 Fun Fact**: I love playing chess, reading voraciously, studying, playing FIFA, listening to podcasts, and watching vodcasts.
 - **🌱 Currently Learning**: Database Management Systems (SQL, PostgreSQL, NoSQL, MongoDB), Object-Oriented Databases, Data Storage Solutions (Data Warehouses, Data Lakes, BLOB Storage), Data Pipeline Engineering (Batch and Streaming Pipelines, Data Ingestion), Python Programming, Version Control (Git/GitHub), Workflow Orchestration and Scheduling, DBT (Data Build Tool), Technical Documentation, Docker, Google Cloud Platform (BigQuery, Cloud Storage), Cloud Computing (AWS and GCP)
 - **😊 Seeking Opportunities**: Open source projects, hackathons, internships, and entry-level opportunities.
-- **💼 Job Interests**: Data Analyst, Data Engineer, Cloud Architect, DevOps (Intern or Junior level for all roles).
+- **💼 Job Interests**: Data Analyst, Platform Data Engineer, Data/Cloud Architect, DevOps (Intern or Junior level for all roles).
 - **📫 Contact**: [View my projects](https://github.com/victorcezeh?tab=repositories) or email me at ezeh_victor@yahoo.com.
 
 ## Solutions Stack 🤖
