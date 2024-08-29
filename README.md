@@ -20,7 +20,7 @@ I'm a Cloud and Data Engineering student passionate about data and its transform
 - **💡 Fun Fact**: I love playing chess, reading voraciously, studying, playing FIFA, listening to podcasts, and watching vodcasts.
 - **🌱 Currently Learning**: Database Management Systems (SQL, PostgreSQL, NoSQL, MongoDB), Object-Oriented Databases, Data Storage Solutions (Data Warehouses, Data Lakes, BLOB Storage), Data Pipeline Engineering (Batch and Streaming Pipelines, Data Ingestion), Python Programming, Version Control (Git/GitHub), Workflow Orchestration and Scheduling, DBT (Data Build Tool), Technical Documentation, Docker, Google Cloud Platform (BigQuery, Cloud Storage), Cloud Computing (AWS and GCP)
 - **😊 Seeking Opportunities**: Open source projects, hackathons, internships, and entry-level opportunities.
-- **💼 Job Interests**: Data Analyst, Platform Data Engineer, Data/Cloud Architect, DevOps (Intern or Junior level for all roles).
+- **💼 Job Interests**: Data Analyst, Data Platform Engineer, Data/Cloud Architect, DevOps (Intern or Junior level for all roles).
 - **📫 Contact**: [View my projects](https://github.com/victorcezeh?tab=repositories) or email me at ezeh_victor@yahoo.com.
 
 ## Solutions Stack 🤖
