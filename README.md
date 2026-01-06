@@ -9,20 +9,24 @@
 Cloud-focused Data Engineer building reliable data systems on GCP and AWS using Python and SQL.  
 I design and implement data pipelines that ingest, transform, and organize data through cloud-native architectures with a focus on clarity, scalability, and cost efficiency.  
 
-📂 **Current Projects:**  
+## 📂 Current Projects:
+
 [Projects](https://github.com/victorcezeh?tab=repositories) 
 
-💡 **Core Skills / Stack:**  
+## 💡 Core Skills / Stack:
+
 Python | SQL | AWS (S3, Lambda, RDS) | GCP (BigQuery, Cloud Storage) | Git | Docker | dbt | Data Pipelines
 
-🌱 **Learning / Growth:**  
+## 🌱 Learning / Growth:
+
 - AWS cloud architecture and services (Lambda, S3, RDS)  
 - Serverless workflows and automation  
 - Infrastructure as Code (Terraform / CloudFormation)  
 - Workflow orchestration (Airflow)  
 - Platform-oriented data engineering  
 
-🔗 **Connect / Explore:**  
+## 🔗 Connect / Explore:
+
 [Connect](https://linktr.ee/victorcezeh)
 
 ## Solutions Stack 🤖
