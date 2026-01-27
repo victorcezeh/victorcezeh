@@ -73,7 +73,7 @@ I'm always open to collaborating on interesting data engineering projects or dis
 
 ## 🎉 Fun Fact
 
-I play chess in my free. I don't even know if that counts as fun.
+I play chess in my free time. I don't even know if that counts as fun.
 
 ---
 
