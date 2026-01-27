@@ -1,41 +1,84 @@
-# 👋 Hi, I'm V.
+# Knight to meet you, I'm V! ♘ 👋🏿
 
+<div align="center">
+  
 [![Altschool Africa](https://img.shields.io/badge/Altschool_Africa-Visit-9B59B6?style=for-the-badge&labelColor=blue)](https://altschoolafrica.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcezeh/)
-[![Vephla Institute](https://img.shields.io/badge/Vephla_Institute-Visit-9B59B6?style=for-the-badge&labelColor=black&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAqklEQVR42mJ0L1+KOioi1BXAlP1Ioa5Q0FQSrXpE0TCaMyFbndLDFtMybNvz4i9D0xPhuuoF1DYAFDIZ5QYwZnLWfATpyHoKU6BcBXI8QwAahDwE8keEB2FzAvxRQk8T8K8GPwQ9A2iBN/BMmZpQlwC7DPAbG5hiaGG4BrM4tgA/ApGBlVQK8A7yBctjl+h/8AAAAASUVORK5CYII=)](https://vephlainstitute.com/)
+[![Vephla Institute](https://img.shields.io/badge/Vephla_Institute-Visit-9B59B6?style=for-the-badge&labelColor=black)](https://vephlainstitute.com/)
 
-## About Me
+</div>
 
-Cloud-focused Data Engineer building reliable data systems on GCP and AWS using Python and SQL.  
-I design and implement data pipelines that ingest, transform, and organize data through cloud-native architectures with a focus on clarity, scalability, and cost efficiency.  
+---
 
-## 📂 Current Projects:
+## 🚀 About Me
 
-[Projects](https://github.com/victorcezeh?tab=repositories) 
+**💼 Role:** Aspiring Data Platform Engineer  
+**🎯 Focus:** Building reliable, scalable data systems on cloud infrastructure
 
-## 💡 Core Skills / Stack:
+I'm a cloud-focused Data Engineer on a journey to become a Data Platform Engineer. I build data pipelines and systems that ingest, transform, and organize data through cloud-native architectures on GCP and AWS. I'm passionate about creating solutions that are clear, scalable, and cost-efficient. Always learning and exploring new tools and frameworks along the way.
 
-Python | SQL | AWS (S3, Lambda, RDS) | GCP (BigQuery, Cloud Storage) | Git | Docker | dbt | Data Pipelines
-
-## 🌱 Learning / Growth:
-
-- AWS cloud architecture and services (Lambda, S3, RDS)  
-- Serverless workflows and automation  
-- Infrastructure as Code (Terraform / CloudFormation)  
-- Workflow orchestration (Airflow)  
-- Platform-oriented data engineering  
-
-## 🔗 Connect / Explore:
-
-[Connect](https://linktr.ee/victorcezeh)
+---
 
 ## Solutions Stack 🤖
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-F2C811?style=for-the-badge&logo=dbt&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://api.iconify.design/logos/dbt-icon.svg" width="40" height="40" alt="dbt logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="apache airflow logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo" />
+</div>
+
+---
+
+## 📂 Current Projects
+
+Check out my [repositories](https://github.com/victorcezeh?tab=repositories) to see what I'm learning and building!
+
+---
+
+## 🌱 Currently Learning
+
+- **AWS Cloud Architecture:** Lambda, S3, RDS, and more
+- **Serverless Workflows & Automation:** Building efficient, event-driven systems
+- **Infrastructure as Code:** Terraform & CloudFormation
+- **Workflow Orchestration:** Apache Airflow
+- **Platform-Oriented Data Engineering:** Designing robust data platforms
+
+---
+
+## 💡 Let's Connect!
+
+I'm always open to collaborating on interesting data engineering projects or discussing new ideas in the data space. Feel free to reach out!
+
+<div align="center">
+
+[![Connect](https://img.shields.io/badge/🔗_Connect-All_Links-00C4CC?style=for-the-badge)](https://linktr.ee/victorcezeh)
+
+</div>
+
+---
+
+## 🎉 Fun Fact
+
+I play chess in my free. I don't even know if that counts as fun.
+
+---
+
+<div align="center">
+  
+*"Building data systems one pipeline at a time"*
+
+</div>
