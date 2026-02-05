@@ -15,7 +15,7 @@
 **💼 Role:** Aspiring Data Platform Engineer  
 **🎯 Focus:** Building reliable, scalable data systems on cloud infrastructure
 
-I'm a cloud-focused Data Engineer on a journey to become a Data Platform Engineer. I build data pipelines and systems that ingest, transform, and organize data through cloud-native architectures on GCP and AWS. I'm passionate about creating solutions that are clear, scalable, and cost-efficient. Always learning and exploring new tools and frameworks along the way.
+Cloud-focused Data Engineer working toward Data Platform Engineering. I design and build cloud-native data systems and pipelines on AWS and GCP, focused on scalable, cost-efficient architectures with thoughtful, easy-to-reason-about design. Actively learning and refining my approach as the ecosystem evolves.
 
 ---
 
