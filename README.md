@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-**💼 Role:** Aspiring Data Platform Engineer  
+**💼 Role:** Data Platform Engineer  
 **🎯 Focus:** Building reliable, scalable data systems on cloud infrastructure
 
 Cloud-focused Data Engineer working toward Data Platform Engineering. I design and build cloud-native data systems and pipelines on AWS and GCP, focused on scalable, cost-efficient architectures with thoughtful, easy-to-reason-about design. Actively learning and refining my approach as the ecosystem evolves.
@@ -31,6 +31,7 @@ Cloud-focused Data Engineer working toward Data Platform Engineering. I design a
   <img src="https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="50" />
   <img src="https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="50" />
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="50" />
 </p>
 
 ---
