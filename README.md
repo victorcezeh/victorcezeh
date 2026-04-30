@@ -66,7 +66,7 @@ I'm always open to collaborating on interesting data engineering projects or dis
 
 ## 🎉 Fun Fact
 
-I play chess in my free time. I don't even know if that counts as fun.
+I play chess in my free time. And I like to stalk people's repos to read their python code. I don't even know if that counts as fun. 😭
 
 ---
 
