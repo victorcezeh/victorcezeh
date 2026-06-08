@@ -44,7 +44,7 @@ Check out my [repositories](https://github.com/victorcezeh?tab=repositories) to 
 
 ## 🌱 Currently Learning
 
-- **AWS Cloud Architecture:** Lambda, S3, RDS, and more
+- **AWS Cloud Architecture:** IAM, S3, EC2, RDS, Lambda and more
 - **Serverless Workflows & Automation:** Building efficient, event-driven systems
 - **Infrastructure as Code:** Terraform & CloudFormation
 - **Workflow Orchestration:** Apache Airflow
