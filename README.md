@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 **💼 Role:** Data Platform Engineer  
-**🎯 Focus:** Building reliable, scalable data systems on cloud infrastructure
+**🎯 Focus:** Designing and building self-serve, scalable data platforms on cloud infrastructure
 
 Cloud-focused Data Engineer working toward Data Platform Engineering. I design and build cloud-native data systems and pipelines on AWS and GCP, focused on scalable, cost-efficient architectures with thoughtful, easy-to-reason-about design. Actively learning and refining my approach as the ecosystem evolves.
 
@@ -48,11 +48,11 @@ Check out my [repositories](https://github.com/victorcezeh?tab=repositories) to 
 - **Serverless Workflows & Automation:** Building efficient, event-driven systems
 - **Infrastructure as Code:** Terraform & CloudFormation
 - **Workflow Orchestration:** Apache Airflow
-- **Platform-Oriented Data Engineering:** Designing robust data platforms
+- **Platform-Oriented Data Engineering:** Designing robust, scalable, and self-serve data platforms
 
 ---
 
-## 💡 Let's Connect!
+## 🤝 Let's Connect!
 
 I'm always open to collaborating on interesting data engineering projects or discussing new ideas in the data space. Feel free to reach out!
 
