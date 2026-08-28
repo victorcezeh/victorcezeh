@@ -35,6 +35,7 @@ Cloud-focused Data Engineer working toward Data Platform Engineering. I design a
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="50" />
   <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="50" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="50" />
 </p>
 
 ---
